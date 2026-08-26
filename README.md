@@ -66,3 +66,6 @@ Songs belonging to the same cluster are considered similar based on their audio 
 ## Final Outcome
 
 The project identifies groups of similar Spotify songs using K-Means clustering and provides a basic approach for building a music recommendation system.
+## Google Colab
+
+[Open Project in Google Colab](https://colab.research.google.com/drive/1cfx2DIwFvvyfoe8YbYB-lMu7Oycy8_Fy?usp=sharing)
